@@ -1,2 +1,2 @@
-# white-base
+# White Base
 Gunpla Log
