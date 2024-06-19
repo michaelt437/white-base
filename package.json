@@ -1,0 +1,19 @@
+{
+  "name": "white-base",
+  "version": "1.0.0",
+  "description": "Gunpla log web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelt437/white-base.git"
+  },
+  "author": "michaelt437",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelt437/white-base/issues"
+  },
+  "homepage": "https://github.com/michaelt437/white-base#readme"
+}
